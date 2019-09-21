@@ -29,4 +29,4 @@ App Outline:
    email address to send alert to, and the amount by which you want to be alerted. 
 2. Next, it checks the Coinbase API for the current price (updated by the minute on site).
 3. If the price of Bitcoin is not below indicated set amount, it will run again in 30 seconds.
-4. If it IS below the amount you indicated, it will send you an email alert, and stop running.
+4. If it is below the amount, you indicated, it will send you an email alert and stop running.
