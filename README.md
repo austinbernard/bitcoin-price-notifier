@@ -18,7 +18,7 @@ and everything will work fine. If you have double verification, you cannot do th
 Download the code from the repository and run: 
 - python3 bitcoinEmailer.py
 
-You will need to import the following Python Libraries and their dependencies:
+The following Python Libraries are used:
 - requests
 - time
 - email.mime
