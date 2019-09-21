@@ -11,7 +11,7 @@ created by:
             |__/ 
             
 Bitcoin is sound money. Meaning that it does not suffer from inflation and cannot be manipulated by central bank. 
-The team at a3j created a python script that sends an email to you notification whenever the price reaches a value that is input by the user. 
+The team at a3j created a python script that sends an email notification to you whenever the price reaches a value that is input by the user. 
 
 NOTE: You have to allow for Less Secure Apps in your Google settings. Just set this feature on ‘On’ 
 and everything will work fine. If you have double verification, you cannot do this.
