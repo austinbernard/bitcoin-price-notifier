@@ -1,7 +1,7 @@
-#request a website to pull API data
-#import time to set durations
-#email.mime & smtplib to send emails 
-#import getpass to mask emails when entered
+# request a website to pull API data
+# import time to set durations
+# email.mime & smtplib to send emails 
+# import getpass to mask emails when entered
 import requests
 import time
 from email.mime.multipart import MIMEMultipart
@@ -9,7 +9,7 @@ from email.mime.text import MIMEText
 import smtplib
 import getpass
 
-#create a function that sends an email notification
+# create a function that sends an email notification
 
 def send_email():
   # create message object instance
