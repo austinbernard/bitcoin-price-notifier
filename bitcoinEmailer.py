@@ -81,5 +81,4 @@ https://mkaz.blog/code/python-string-format-cookbook/
 
 https://stackabuse.com/how-to-send-emails-with-gmail-using-python/
 
-https://travis.media/create-bitcoin-price-alert-app-in-python-tutorial
 '''
